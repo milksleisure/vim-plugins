@@ -1,0 +1,9 @@
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git@github.com:milksleisure/ultisnips.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
