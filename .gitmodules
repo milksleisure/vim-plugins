@@ -28,3 +28,6 @@
 [submodule "vim-template"]
 	path = bundle/vim-template
 	url = git@github.com:milksleisure/vim-template.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
